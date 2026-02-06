@@ -1,3 +1,5 @@
+ 
+ 
  var name =prompt("Enter name").trim();
  var age =prompt("Enter age").trim();
 
