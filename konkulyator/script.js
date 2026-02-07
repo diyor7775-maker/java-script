@@ -17,6 +17,3 @@ else if (amal == "*") {
 else if (amal == "/") {
   console.log(a / b);
 } 
-else {
-  console.log("Noto`g`ri amal kiritildi");
-}
