@@ -1,15 +1,22 @@
-prompt();
-prompt();
-prompt();
+var a = prompt("Birinchi sonni kiriting:");
+var b = prompt("Ikkinchi sonni kiriting:");
+var amal = prompt("Amalni tanlang: +  -  *  /");
 
- var result=50;
+a = Number(a);
+b = Number(b);
 
- alert (`Javobi: ${result}`)
-
- prompt();
-prompt();
-prompt();
-
- var result=100;
-
- alert (`Javobi: ${result}`)
+if (amal == "+") {
+  console.log(a + b);
+} 
+else if (amal == "-") {
+  console.log(a - b);
+} 
+else if (amal == "*") {
+  console.log(a * b);
+} 
+else if (amal == "/") {
+  console.log(a / b);
+} 
+else {
+  console.log("Noto`g`ri amal kiritildi");
+}
