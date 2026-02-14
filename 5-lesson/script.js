@@ -9,7 +9,6 @@
         console.log(i);
         if (alphabet== alphabet.toLowerCase()){
      console.log(alphabet.toLowerCase());
-     
+      
 }
-}
-
+ }
