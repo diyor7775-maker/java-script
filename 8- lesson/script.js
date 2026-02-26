@@ -22,11 +22,11 @@
 var kod = prompt("Kod kiriting (90, 93, 97 ...):");
 
 if (kod == "90") {
-    console.log("+998 90 565 35 53 (BEELINE)");
+    console.log("+998+998 99 599 57 75 (BEELINE)");
 }
 else if (kod == "93") {
-    console.log("+998 93 565 35 53 (UCELL)");
+    console.log("+998 99 599 57 75 (UCELL)");
 }
 else if (kod == "97") {
-    console.log("+998 97 565 35 53 (MOBIUZ)");
+    console.log("+998 99 599 57 75 (MOBIUZ)");
 }
